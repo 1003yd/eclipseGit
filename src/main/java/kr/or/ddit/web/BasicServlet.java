@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-
+//주석 변경
 @WebServlet("/BasicServlet")
 public class BasicServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
